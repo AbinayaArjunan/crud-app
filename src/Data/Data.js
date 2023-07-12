@@ -26,7 +26,7 @@ export const DataProvider = ({ children }) => {
 
 
     const [style, setStyle] = useState(
-        "navbar-nav bg-gradient-primary sidebar sidebar-dark accordion"
+        "navbar-nav sidebar-color sidebar sidebar-dark accordion"
     );
 
     const Changestyle = () => {
