@@ -1,0 +1,12 @@
+{
+    "student": [
+        {
+            "id": 1,
+            "name": "abi",
+            "fathername": "arjunan",
+            "batch": "47",
+            "address": "chinnasalem",
+            "course": "MERN STACK"
+        }
+    ]
+}
